@@ -1,6 +1,6 @@
 <h1 id="spermiogramm-berlin-klinik-oder-heimtest-so-findest-du-die-beste-l-sung">Spermiogramm Berlin: Klinik oder Heimtest? So findest du die beste Lösung</h1>
 <hr>
-<h3 id="einleitung-warum-ein-spermiogramm-in-berlin-immer-wichtiger-wird">Einleitung: Warum ein Spermiogramm in Berlin immer wichtiger wird</h3>
+<h3 id="einleitung-warum-ein-spermiogramm-in-berlin-immer-wichtiger-wird">Warum ein Spermiogramm in Berlin immer wichtiger wird</h3>
 <p>Immer mehr Männer in Berlin beschäftigen sich mit ihrer Fruchtbarkeit – und das aus gutem Grund. Laut aktuellen Studien ist die durchschnittliche Spermienkonzentration in Westeuropa in den letzten Jahrzehnten um mehr als 50 % gesunken. Auch in Großstädten wie Berlin zeigen sich zunehmend Anzeichen für sinkende männliche Fruchtbarkeit. Der Kinderwunsch rückt früher oder später bei vielen Paaren ins Zentrum, doch oft bleibt die Frage nach der männlichen Fruchtbarkeit unbeantwortet. Ein Spermiogramm ist dabei ein einfacher und wichtiger erster Schritt. In Berlin gibt es zahlreiche Möglichkeiten für diesen Test – von der klassischen Praxis bis zum modernen Heimtest. Doch was ist die beste Option für dich?</p>
 <hr>
 <h3 id="was-ist-ein-spermiogramm-">Was ist ein Spermiogramm?</h3>
