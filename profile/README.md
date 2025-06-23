@@ -35,7 +35,7 @@
 </ul>
 <hr>
 <h3 id="der-moderne-weg-heimtest-mit-exseed">Der moderne Weg: Heimtest mit ExSeed</h3>
-<p><img src="https://i.postimg.cc/Cxb75qj5/Chat-GPT-Image-Jun-23-2025-04-51-38-PM.png" alt="ExSeed Heimtest Anwendung – Mann sitzt auf Sofa mit Smartphone und Testkit in moderner Wohnzimmerumgebung"></p>
+<p><img src="https://i.postimg.cc/4dxjp55B/device-2-min.jpg" alt="ExSeed Heimtest Anwendung – Mann sitzt auf Sofa mit Smartphone und Testkit in moderner Wohnzimmerumgebung"></p>
 <p>Wenn du lieber stressfrei, diskret und in deiner gewohnten Umgebung testen willst, ist der <strong>ExSeed Home Sperm Test</strong> eine echte Alternative.</p>
 <p><strong>So funktioniert es:</strong></p>
 <ul>
