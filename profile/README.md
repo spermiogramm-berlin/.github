@@ -4,6 +4,7 @@
 <p>Immer mehr Männer in Berlin beschäftigen sich mit ihrer Fruchtbarkeit – und das aus gutem Grund. Laut aktuellen Studien ist die durchschnittliche Spermienkonzentration in Westeuropa in den letzten Jahrzehnten um mehr als 50 % gesunken. Auch in Großstädten wie Berlin zeigen sich zunehmend Anzeichen für sinkende männliche Fruchtbarkeit. Der Kinderwunsch rückt früher oder später bei vielen Paaren ins Zentrum, doch oft bleibt die Frage nach der männlichen Fruchtbarkeit unbeantwortet. Ein Spermiogramm ist dabei ein einfacher und wichtiger erster Schritt. In Berlin gibt es zahlreiche Möglichkeiten für diesen Test – von der klassischen Praxis bis zum modernen Heimtest. Doch was ist die beste Option für dich?</p>
 <hr>
 <h3 id="was-ist-ein-spermiogramm-">Was ist ein Spermiogramm?</h3>
+<p><img src="https://i.postimg.cc/CKzKJjmL/Chat-GPT-Image-Jun-23-2025-04-51-44-PM.png" alt="Infografik: Was zeigt ein Spermiogramm – zeigt Volumen, Konzentration, Motilität und Morphologie grafisch dargestellt"></p>
 <p>Ein Spermiogramm ist eine Analyse deiner Samenprobe. Dabei werden unter anderem folgende Parameter geprüft:</p>
 <ul>
 <li><strong>Volumen</strong></li>
@@ -13,7 +14,6 @@
 </ul>
 <p>Diese Parameter gehören zu den Standards, die von der Weltgesundheitsorganisation (WHO) für ein vollständiges Spermiogramm empfohlen werden. In den meisten qualifizierten Laboren und auch bei zertifizierten Heimtests werden sie entsprechend berücksichtigt.</p>
 <p>Die Untersuchung dient dazu, Hinweise auf deine Zeugungsfähigkeit zu geben. Besonders beim unerfüllten Kinderwunsch ist das Spermiogramm ein zentraler Bestandteil der Diagnostik. Wichtig: Die Qualität deiner Spermien kann schwanken – deshalb sind Wiederholungen sinnvoll.</p>
-<p><img src="your-infographic-image-path.png" alt="Was zeigt ein Spermiogramm"></p>
 <hr>
 <h3 id="spermiogramm-in-berlin-deine-optionen">Spermiogramm in Berlin: Deine Optionen</h3>
 <p>In der Hauptstadt gibt es viele Möglichkeiten, ein Spermiogramm durchzuführen:</p>
@@ -35,6 +35,7 @@
 </ul>
 <hr>
 <h3 id="der-moderne-weg-heimtest-mit-exseed">Der moderne Weg: Heimtest mit ExSeed</h3>
+<p><img src="https://i.postimg.cc/Cxb75qj5/Chat-GPT-Image-Jun-23-2025-04-51-38-PM.png" alt="ExSeed Heimtest Anwendung – Mann sitzt auf Sofa mit Smartphone und Testkit in moderner Wohnzimmerumgebung"></p>
 <p>Wenn du lieber stressfrei, diskret und in deiner gewohnten Umgebung testen willst, ist der <strong>ExSeed Home Sperm Test</strong> eine echte Alternative.</p>
 <p><strong>So funktioniert es:</strong></p>
 <ul>
@@ -51,7 +52,6 @@
 <li>Wissenschaftlich validiert: Der ExSeed-Test wurde in unabhängigen Studien mit Laborergebnissen verglichen und zeigt eine hohe Übereinstimmung in der Bewertung der Spermienqualität</li>
 </ul>
 <p>Mehr über den Heimtest erfährst du im <a href="https://medium.com/@ExSeedHealth/fruchtbarkeitstest-f%C3%BCr-m%C3%A4nner-warum-du-deinen-samen-jetzt-zuhause-testen-solltest-dc549f442932">Medium-Artikel hier</a>.</p>
-<p><img src="your-hero-image-path.png" alt="Heimtest mit ExSeed"></p>
 <hr>
 <h3 id="spermiogramm-berlin-vs-zuhause-ein-direkter-vergleich">Spermiogramm Berlin vs. Zuhause – ein direkter Vergleich</h3>
 <table>
